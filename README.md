@@ -1,5 +1,5 @@
 
-[博客地址——>](https://mahailong.github.io/)
+[博客源码——>](https://github.com/mahailong/hexo-blog)
 
 [项目主页——>](https://mahailong.github.io/hexo-blog/)
 
