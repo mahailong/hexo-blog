@@ -1,9 +1,11 @@
 
 [博客地址](https://mahailong.github.io/)
+[项目主页](https://mahailong.github.io/hexo-blog/)
 
 ## 安装
 
 ```
+
   git clone git@github.com:mahailong/hexo-blog.git
   cd hexo-blog/src
   npm install
