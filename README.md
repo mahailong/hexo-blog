@@ -6,7 +6,7 @@
 ```
 
     git clone git@github.com:mahailong/hexo-blog.git
-    cd hexo-blog
+    cd hexo-blog/src
     npm install
 
 ```
