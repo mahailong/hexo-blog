@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 [博客地址](https://mahailong.github.io/)
 
@@ -13,8 +12,11 @@
 ```
 
 ## 使用
+ 
+将themes目录下的_config.yml文件移至yilla文件夹
 
 ```
+
     // 运行
     hexo server
     // 创建新文章
