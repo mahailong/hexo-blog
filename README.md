@@ -1,37 +1,29 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mahailong/mahailong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[博客地址](https://mahailong.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 安装
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    git clone git@github.com:mahailong/hexo-blog.git
+    cd hexo-blog
+    npm install
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahailong/mahailong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 使用
 
-### Support or Contact
+```
+    // 运行
+    hexo server
+    // 创建新文章
+    hexo new "title"
+    // 生成静态文件
+    hexo generate
+    // 发布
+    hexo deploy
+    // 更改主题前
+    hexo clean
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
