@@ -24,5 +24,6 @@ tags: [code,vue]
 [https://github.com/ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)
 老师自己写的一个滑动插件，很好用
 
+### 一周后
 跟着课程一路写下来之后发现不知道该记点啥了，囧~~
 以后注意~~
