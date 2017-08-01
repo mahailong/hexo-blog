@@ -1,5 +1,5 @@
 ---
-title: '慕课实战之Vue.js高仿饿了么外卖App'
+title: 'Vue2仿饿了么外卖App'
 date: 2017-07-11 14:07:25
 tags: [code,vue]
 ---

@@ -1,10 +1,10 @@
 ---
-title: cnode-antd
+title: React仿Cnode社区App
 date: 2017-07-04 11:14:46
-tags: code
+tags: [code,react]
 ---
 
-[ 项目主页 --->](https://mahailong.github.io/cnode-antd)
+[ 项目主页 --->](https://mahailong.github.io/React-Cnode)
  
  
 ### 项目简介
@@ -32,8 +32,8 @@ tags: code
 
 ## 运行项目
 ```
-  git clone https://github.com/mahailong/cnode-antd.git
-  cd cnode-antd
+  git clone https://github.com/mahailong/React-Cnode.git
+  cd React-Cnode
   npm install
   npm start
 ```
