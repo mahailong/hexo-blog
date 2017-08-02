@@ -4,7 +4,7 @@ date: 2017-07-04 11:14:46
 tags: [code,react]
 ---
 
-[ 项目主页 --->](https://mahailong.github.io/React-Cnode)
+[ 项目预览 --->](https://mahailong.github.io/React-Cnode/dist)
  
  
 ### 项目简介
