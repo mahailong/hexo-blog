@@ -6,6 +6,7 @@ tags: [code,ionic]
 
 [ 项目预览 --->](https://mahailong.github.io/Ionic-Cnode/www/)
  
+[ 项目源码 --->](https://github.com/mahailong/Ionic-Cnode)
  
 ### 项目简介
  
